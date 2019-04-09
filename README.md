@@ -865,7 +865,7 @@ Related paper links:(也欢迎大家推荐自己的CVPR2019文章，我们会及
 作者：Jiankang Deng, Jia Guo, Niannan Xue, Stefanos Zafeiriou<br>
 论文链接：https://arxiv.org/abs/1801.07698
 <br>
-Demo链接：https://github.com/vita-epfl/openpifpafwebdemo
+代码链接：https://github.com/deepinsight/insightface
  <br> <br>
 242.PifPaf: Composite Fields for Human Pose Estimation(姿态估计）<br>
 作者：Sven Kreiss, Lorenzo Bertoni, Alexandre Alahi<br>
